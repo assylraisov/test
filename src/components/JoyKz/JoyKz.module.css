@@ -1,0 +1,407 @@
+.root {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #1b1d42;
+  overflow-y: auto;
+}
+.divSiteWrapper {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: min-content;
+  flex-direction: column;
+  padding: 0 0 0.0001px;
+}
+.mainArticle {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.section {
+  position: relative;
+  width: 1920px;
+  height: min-content;
+  align-items: center;
+  padding: 189.11px 0 63.36px;
+}
+.divSectionBorder {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 1920px;
+  height: 1087.8px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+}
+.divSectionBackground {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  flex-direction: column;
+  background-color: #fff;
+  overflow: hidden;
+}
+.divYui_3_17_2_1_1691733468158_ {
+  position: relative;
+  width: 1920px;
+  height: 835.33px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.divBlock230f176eb1efe104821 {
+  position: absolute;
+  left: 360.06px;
+  right: 864.6px;
+  top: 72.59px;
+  bottom: 551.96px;
+  height: min-content;
+  flex-direction: column;
+  padding: 0 0 79.94px;
+}
+.divSqsHtmlContent {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 27.93px;
+  padding: 0 28.34px 0.91px 0;
+}
+.heading2GetBetterGrades {
+  color: #fff;
+  font-size: 39.2px;
+  line-height: 50.9286px;
+  font-family: Rubik Mono One, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.heading2WhileStudyingLess {
+  color: #fff;
+  font-size: 39.2px;
+  line-height: 50.9286px;
+  font-family: Rubik Mono One, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.divBlockYui_3_17_2_1_169161746 {
+  position: absolute;
+  left: 360.06px;
+  right: 965.5px;
+  top: 515.16px;
+  bottom: 0px;
+  flex-direction: column;
+  padding: 0 0 163.17px;
+}
+.divBlockYui_3_17_2_1_169164699 {
+  position: absolute;
+  left: 1419.58px;
+  right: 410.51px;
+  top: 698.14px;
+  bottom: 36.8px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 5.88px 24.39px 0;
+}
+.spanSqsrteTextColorWhite {
+  width: min-content;
+  height: min-content;
+  padding: 0 22.03px 0 0;
+}
+.notionCertifiedCreators {
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 14px;
+  line-height: 25.2px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 14px;
+  line-height: 25.2px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 14px;
+  line-height: 25.2px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.iPhone14Pro {
+  position: absolute;
+  left: 4.0625%;
+  right: 84.6175%;
+  top: 12.7931%;
+  bottom: 18.1264%;
+  background-image:/* webpackIgnore: true */ url('/assets/iPhone14Pro.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.iPhone14Pro2 {
+  position: absolute;
+  left: 14.0754%;
+  right: 74.0342%;
+  top: 11.7188%;
+  bottom: 18.1083%;
+  background-image:/* webpackIgnore: true */ url('/assets/iPhone14Pro2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.design {
+  position: absolute;
+  left: 276.6861px;
+  top: 102.2067px;
+  width: 194.1715px;
+  height: 571.0863px;
+  background-image:/* webpackIgnore: true */ url('/assets/design.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('/assets/mockup.svg');
+  mask-image:/* webpackIgnore: true */ url('/assets/mockup.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 1.4742876291275024px 7.242530345916748px;
+  mask-position: 1.4742876291275024px 7.242530345916748px;
+  -webkit-mask-size: 191.4132080078125px 562.0451049804688px;
+  mask-size: 191.4132080078125px 562.0451049804688px;
+}
+.section2 {
+  position: relative;
+  width: 1920px;
+  height: min-content;
+  align-items: center;
+  padding: 126.72px 0 126.7199px;
+}
+.divSectionBorder2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 1920px;
+  height: 1861.5px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #1b1d42;
+}
+.divSectionBackground2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  flex-direction: column;
+  background-color: #1b1d42;
+  overflow: hidden;
+}
+.divYui_3_17_2_1_1691733468158_2 {
+  position: relative;
+  width: 1920px;
+  height: 1608.0601px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.divYui_3_17_2_1_1691733468158_3 {
+  position: absolute;
+  left: 511.42px;
+  right: 511.42px;
+  top: 183.98px;
+  bottom: 956.7201px;
+  justify-content: center;
+  padding: 9.42px 0 9.44px;
+}
+.divBlockYui_3_17_2_1_1691646992 {
+  position: absolute;
+  left: 561.88px;
+  right: 561.87px;
+  top: -1px;
+  bottom: 1545.4701px;
+  height: min-content;
+  flex-direction: column;
+  padding: 0 163.25px 12.59px 0;
+}
+.heading2TheStudyScheduler {
+  color: #fff;
+  font-size: 39.2px;
+  line-height: 50.9286px;
+  font-family: Rubik Mono One, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.divBlockYui_3_17_2_1_1691646993 {
+  position: absolute;
+  left: 511.42px;
+  right: 511.42px;
+  top: 72.59px;
+  bottom: 1471.8801px;
+  flex-direction: column;
+  padding: 0 288.16px 25.59px 0;
+}
+._118 {
+  position: absolute;
+  left: 1114px;
+  top: 0.4805px;
+  width: 736px;
+  height: 629px;
+  background-image:/* webpackIgnore: true */ url('/assets/_118.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.footerSection {
+  position: relative;
+  height: 1218px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  box-shadow: inset 0px 1px 0px #74d1f0;
+}
+.divSectionBorder3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 1px;
+  bottom: 0.4399px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #1b1d42;
+}
+.divSectionBackground3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  flex-direction: column;
+  background-color: #1b1d42;
+  overflow: hidden;
+}
+.header {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 99.94px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 26.88px 76.79px 27.87px 76.8px;
+}
+.divHeaderBackgroundSolid {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #1b1d42;
+}
+.divHeaderBorder {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  box-shadow: inset 0px -1px 0px #74d1f0;
+}
+.link {
+  position: absolute;
+  left: -12600px;
+  top: 18.8906px;
+  width: 194.42px;
+  height: min-content;
+  padding: 18.11px 46.59px 19.11px 46.83px;
+  outline: solid 4px #fd6767;
+  outline-offset: -4px;
+  border-radius: 300px;
+  background-color: #fd6767;
+  box-shadow: 0px 0px 14px 0px #74d1f1;
+}
+.skipToContent {
+  color: #fff;
+  font-size: 12.6px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.252px;
+  text-decoration: underline;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.link2 {
+  position: absolute;
+  left: 924px;
+  top: 27px;
+  width: 71.67px;
+  height: 45.19px;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding: 9px 15.67px 10.19px 14px;
+  border-radius: 50px;
+  background-color: #74d1f1;
+  box-shadow: 0px 0px 14px 0px #74d1f1;
+}
+.home {
+  color: #fff;
+  font-size: 14px;
+  line-height: 25.2px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  right: 15.67px;
+  top: 9px;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.heading2TheStudyScheduler2 {
+  color: #fff;
+  font-size: 39.2px;
+  line-height: 50.9286px;
+  font-family: Rubik Mono One, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 42px;
+  top: 27px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
